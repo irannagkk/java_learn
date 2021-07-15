@@ -1,0 +1,18 @@
+Oops:
+========
+-Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code: 
+  data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).
+
+-inheritance:-In object-oriented programming, inheritance is the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. 
+Also defined as deriving new classes (sub classes) from existing ones such as super class or base class and then forming them into a hierarchy of classes. 
+
+-Composition:-composition is a way to combine objects or data types into more complex ones. Common kinds of compositions are objects used in object-oriented programming, tagged unions, sets, sequences, and various graph structures.
+ Object compositions relate to, but are not the same as, data structures.
+
+-Encapsulation:-Encapsulation is an object-oriented programming concept that binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse. 
+Data encapsulation led to the important OOP concept of data hiding.
+
+-Data hidng:-Data hiding is a software development technique specifically used in object-oriented programming (OOP) to hide internal object details (data members). 
+Data hiding ensures exclusive data access to class members and protects object integrity by preventing unintended or intended changes.
+
+-Abstraction:-Abstraction is the concept of object-oriented programming that "shows" only essential attributes and "hides" unnecessary information. The main purpose of abstraction is hiding the unnecessary details from the users.
